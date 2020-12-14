@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b2b467e6f9b22db78c4ceb994992d85",
+    "revision": "df390f20b3e56ba13e1879faa930e8bd",
     "url": "/index.html"
   },
   {
-    "revision": "45d503d048914624cc7c",
+    "revision": "a4d6973b4fe8702b8c60",
     "url": "/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "a6171a2ecb0aee54e7a7",
-    "url": "/static/css/main.41c316b5.chunk.css"
+    "revision": "a0a36e411e44d5b837f3",
+    "url": "/static/css/main.10dfcb2d.chunk.css"
   },
   {
-    "revision": "45d503d048914624cc7c",
-    "url": "/static/js/2.420c0fd9.chunk.js"
+    "revision": "a4d6973b4fe8702b8c60",
+    "url": "/static/js/2.57cf4771.chunk.js"
   },
   {
     "revision": "357dc980501d9bb586163e2a40a85e7e",
-    "url": "/static/js/2.420c0fd9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.57cf4771.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "715fb4b1cd659866edc9",
-    "url": "/static/js/3.9152f201.chunk.js"
+    "revision": "1b5d2368b64d7c304bc7",
+    "url": "/static/js/3.1cdb88e3.chunk.js"
   },
   {
-    "revision": "a6171a2ecb0aee54e7a7",
-    "url": "/static/js/main.fa0c6f95.chunk.js"
+    "revision": "a0a36e411e44d5b837f3",
+    "url": "/static/js/main.57473a41.chunk.js"
   },
   {
-    "revision": "76c0349defd6674ac5a1",
-    "url": "/static/js/runtime-main.e37d5895.js"
+    "revision": "bdb43bf2f33789526fd3",
+    "url": "/static/js/runtime-main.e4b74b39.js"
   },
   {
     "revision": "b4519acf23c075dd361e708ca1f1dc84",
@@ -40,12 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ChenCheng.98ebc3e3.jpeg"
   },
   {
-    "revision": "40629994870a55ec8c066b8d8ad74e60",
-    "url": "/static/media/Data_blank.40629994.png"
-  },
-  {
     "revision": "434a2a8c338931249c806ca6c8245c51",
     "url": "/static/media/Erkun.434a2a8c.jpeg"
+  },
+  {
+    "revision": "741814e820edeca8bf99f757c8561262",
+    "url": "/static/media/Example-CIFAR10.741814e8.png"
+  },
+  {
+    "revision": "330db498538e8d2d1f1358f64e2cf4d8",
+    "url": "/static/media/Example-MNIST.330db498.jpeg"
   },
   {
     "revision": "2da888345bf966c62278ca3b2bfe5654",
@@ -60,12 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Michael.a8795169.jpeg"
   },
   {
-    "revision": "cd8a0fa78aed9bc9e4e703470737c14b",
-    "url": "/static/media/Model_blank.cd8a0fa7.jpg"
+    "revision": "571a4195156be34fc50a4a71e3852a5e",
+    "url": "/static/media/Model_blank.571a4195.png"
   },
   {
     "revision": "4673bafb40109556d13a8f2afa59d8b9",
     "url": "/static/media/Rihui.4673bafb.jpg"
+  },
+  {
+    "revision": "86943841e765d3a52ebd5f57f7f29170",
+    "url": "/static/media/SIT.86943841.jpg"
   },
   {
     "revision": "201edff48d11ff75925b8f9322c2131f",
@@ -120,6 +128,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo_blue.809ad547.png"
   },
   {
+    "revision": "b2e4fb86c699ce14078c1a978f45a4d9",
+    "url": "/static/media/news-1.b2e4fb86.png"
+  },
+  {
+    "revision": "cbe34def0ecd6282057f58cf2c7062a6",
+    "url": "/static/media/news-2.cbe34def.png"
+  },
+  {
+    "revision": "19cda406456eba028400809eb6746ab8",
+    "url": "/static/media/news-3.19cda406.png"
+  },
+  {
+    "revision": "9177b562f72371072a1bb78b71682aed",
+    "url": "/static/media/news-4.9177b562.png"
+  },
+  {
+    "revision": "5663fb48d0e8fc5f6e5338541c389566",
+    "url": "/static/media/news-5.5663fb48.png"
+  },
+  {
+    "revision": "4d7f0034403678c616e1e1fa1a475ab8",
+    "url": "/static/media/news-6.4d7f0034.png"
+  },
+  {
     "revision": "dcbe3ce13d39c3a393f3e469afa2645c",
     "url": "/static/media/p1.dcbe3ce1.png"
   },
@@ -160,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/top-news5.29614cea.png"
   },
   {
-    "revision": "7833c722d0605b5414646ff087627885",
-    "url": "/static/media/top-news6.7833c722.jpeg"
+    "revision": "6983ecba838ff117d5f015a28470d4f6",
+    "url": "/static/media/top-news6.6983ecba.jpeg"
   },
   {
     "revision": "40aaeedfcf4ccbe2a93f8fcfdb9e55f3",
