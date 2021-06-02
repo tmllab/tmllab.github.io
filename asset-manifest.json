@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.5d438a68.chunk.css",
-    "main.js": "/static/js/main.80430cd2.chunk.js",
-    "main.js.map": "/static/js/main.80430cd2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9a459f4d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9a459f4d.js.map",
+    "main.js": "/static/js/main.78222a90.chunk.js",
+    "main.js.map": "/static/js/main.78222a90.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49611439.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49611439.js.map",
     "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
-    "static/js/2.1a280d4d.chunk.js": "/static/js/2.1a280d4d.chunk.js",
-    "static/js/2.1a280d4d.chunk.js.map": "/static/js/2.1a280d4d.chunk.js.map",
-    "static/js/3.0f1587f1.chunk.js": "/static/js/3.0f1587f1.chunk.js",
-    "static/js/3.0f1587f1.chunk.js.map": "/static/js/3.0f1587f1.chunk.js.map",
+    "static/js/2.bc77b219.chunk.js": "/static/js/2.bc77b219.chunk.js",
+    "static/js/2.bc77b219.chunk.js.map": "/static/js/2.bc77b219.chunk.js.map",
+    "static/js/3.5f388233.chunk.js": "/static/js/3.5f388233.chunk.js",
+    "static/js/3.5f388233.chunk.js.map": "/static/js/3.5f388233.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d08fdf6615822e59a4bdca2c78a87a70.js": "/precache-manifest.d08fdf6615822e59a4bdca2c78a87a70.js",
+    "precache-manifest.b96e978807f101cc16f023c62a73abca.js": "/precache-manifest.b96e978807f101cc16f023c62a73abca.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.5d438a68.chunk.css.map": "/static/css/main.5d438a68.chunk.css.map",
-    "static/js/2.1a280d4d.chunk.js.LICENSE.txt": "/static/js/2.1a280d4d.chunk.js.LICENSE.txt",
+    "static/js/2.bc77b219.chunk.js.LICENSE.txt": "/static/js/2.bc77b219.chunk.js.LICENSE.txt",
     "static/media/ChaojianYu.jpeg": "/static/media/ChaojianYu.b4519acf.jpeg",
     "static/media/ChenCheng.jpeg": "/static/media/ChenCheng.98ebc3e3.jpeg",
     "static/media/Dawei.jpeg": "/static/media/Dawei.31b47dd7.jpeg",
@@ -30,6 +30,7 @@
     "static/media/Model_blank.png": "/static/media/Model_blank.571a4195.png",
     "static/media/Rihui.jpg": "/static/media/Rihui.4673bafb.jpg",
     "static/media/SIT.jpg": "/static/media/SIT.86943841.jpg",
+    "static/media/Vinoth.png": "/static/media/Vinoth.aa995def.png",
     "static/media/XiaoboXia.jpg": "/static/media/XiaoboXia.201edff4.jpg",
     "static/media/Xinyu.png": "/static/media/Xinyu.49e2a423.png",
     "static/media/Yingbin.jpg": "/static/media/Yingbin.0d1454b9.jpg",
@@ -65,10 +66,10 @@
     "static/media/zhengning.jpg": "/static/media/zhengning.ab0fd3ec.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a459f4d.js",
+    "static/js/runtime-main.49611439.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.1a280d4d.chunk.js",
+    "static/js/2.bc77b219.chunk.js",
     "static/css/main.5d438a68.chunk.css",
-    "static/js/main.80430cd2.chunk.js"
+    "static/js/main.78222a90.chunk.js"
   ]
 }
