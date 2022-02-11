@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26137617e5f17e060b426906ce309d2b",
+    "revision": "f0ef968976ced17ddaf3a5acd30d3999",
     "url": "/index.html"
   },
   {
-    "revision": "81c972e7630ea3744a4f",
-    "url": "/static/css/2.2a86faee.chunk.css"
+    "revision": "e95a5695ce1e937f58e3",
+    "url": "/static/css/2.74662cff.chunk.css"
   },
   {
-    "revision": "bd3e62b88232ce64fede",
-    "url": "/static/css/main.5d438a68.chunk.css"
+    "revision": "a934e5e3c795800a76a2",
+    "url": "/static/css/main.a7c63d37.chunk.css"
   },
   {
-    "revision": "81c972e7630ea3744a4f",
-    "url": "/static/js/2.cec508bc.chunk.js"
+    "revision": "e95a5695ce1e937f58e3",
+    "url": "/static/js/2.ade9e956.chunk.js"
   },
   {
     "revision": "357dc980501d9bb586163e2a40a85e7e",
-    "url": "/static/js/2.cec508bc.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ade9e956.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26692b7f9f7b6f572b25",
-    "url": "/static/js/3.896d773e.chunk.js"
+    "revision": "856970b5ce12763841dd",
+    "url": "/static/js/3.536836c1.chunk.js"
   },
   {
-    "revision": "bd3e62b88232ce64fede",
-    "url": "/static/js/main.f15b9189.chunk.js"
+    "revision": "a934e5e3c795800a76a2",
+    "url": "/static/js/main.aaa722a8.chunk.js"
   },
   {
-    "revision": "c96735b1f99ca6f55b00",
-    "url": "/static/js/runtime-main.3eb331ae.js"
+    "revision": "9254f27ad9fa8d1be8a2",
+    "url": "/static/js/runtime-main.d5dd65e2.js"
   },
   {
     "revision": "5918c49b920633769b3555631c374980",
@@ -104,16 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Model_blank.571a4195.png"
   },
   {
-    "revision": "7d95e1bc6f6be84915c2e04f6a8e4878",
-    "url": "/static/media/NeurIPS.7d95e1bc.png"
+    "revision": "fc641c3a5af5172b109d3b2f1e23f564",
+    "url": "/static/media/NeurIPS.fc641c3a.png"
+  },
+  {
+    "revision": "517470961688237b75ca400bb73400a4",
+    "url": "/static/media/Nguyen.51747096.jpg"
   },
   {
     "revision": "723f150dc6be7838f61072ea3ab13ce1",
     "url": "/static/media/Pengqian.723f150d.jpg"
   },
   {
-    "revision": "4673bafb40109556d13a8f2afa59d8b9",
-    "url": "/static/media/Rihui.4673bafb.jpg"
+    "revision": "1f46248f2d0c1793980c9e3db6c9d431",
+    "url": "/static/media/Runlin.1f46248f.jpg"
   },
   {
     "revision": "86943841e765d3a52ebd5f57f7f29170",
