@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.a7c63d37.chunk.css",
-    "main.js": "/static/js/main.aaa722a8.chunk.js",
-    "main.js.map": "/static/js/main.aaa722a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d5dd65e2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d5dd65e2.js.map",
+    "main.js": "/static/js/main.5290b2f2.chunk.js",
+    "main.js.map": "/static/js/main.5290b2f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e8f8fae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e8f8fae.js.map",
     "static/css/2.74662cff.chunk.css": "/static/css/2.74662cff.chunk.css",
-    "static/js/2.ade9e956.chunk.js": "/static/js/2.ade9e956.chunk.js",
-    "static/js/2.ade9e956.chunk.js.map": "/static/js/2.ade9e956.chunk.js.map",
-    "static/js/3.536836c1.chunk.js": "/static/js/3.536836c1.chunk.js",
-    "static/js/3.536836c1.chunk.js.map": "/static/js/3.536836c1.chunk.js.map",
+    "static/js/2.0647d273.chunk.js": "/static/js/2.0647d273.chunk.js",
+    "static/js/2.0647d273.chunk.js.map": "/static/js/2.0647d273.chunk.js.map",
+    "static/js/3.1c16b7d5.chunk.js": "/static/js/3.1c16b7d5.chunk.js",
+    "static/js/3.1c16b7d5.chunk.js.map": "/static/js/3.1c16b7d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.993a38a62e10888632c3246f14a7e5f8.js": "/precache-manifest.993a38a62e10888632c3246f14a7e5f8.js",
+    "precache-manifest.62ec4b53ba5427703913f9c59670b5ca.js": "/precache-manifest.62ec4b53ba5427703913f9c59670b5ca.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.74662cff.chunk.css.map": "/static/css/2.74662cff.chunk.css.map",
     "static/css/main.a7c63d37.chunk.css.map": "/static/css/main.a7c63d37.chunk.css.map",
-    "static/js/2.ade9e956.chunk.js.LICENSE.txt": "/static/js/2.ade9e956.chunk.js.LICENSE.txt",
+    "static/js/2.0647d273.chunk.js.LICENSE.txt": "/static/js/2.0647d273.chunk.js.LICENSE.txt",
     "static/media/ARC.png": "/static/media/ARC.5918c49b.png",
     "static/media/ChaojianYu.jpeg": "/static/media/ChaojianYu.b4519acf.jpeg",
     "static/media/ChenCheng.jpeg": "/static/media/ChenCheng.98ebc3e3.jpeg",
@@ -45,6 +45,7 @@
     "static/media/Xinyu.png": "/static/media/Xinyu.49e2a423.png",
     "static/media/Xuan.jpg": "/static/media/Xuan.63a0ce15.jpg",
     "static/media/Yang.png": "/static/media/Yang.b77f95dd.png",
+    "static/media/Yexin.jpg": "/static/media/Yexin.dca42f3c.jpg",
     "static/media/Yingbin.jpg": "/static/media/Yingbin.0d1454b9.jpg",
     "static/media/Yuhao.jpeg": "/static/media/Yuhao.6d3ece7e.jpeg",
     "static/media/YuhaoWu.jpeg": "/static/media/YuhaoWu.fb6293ee.jpeg",
@@ -78,10 +79,10 @@
     "static/media/zhengning.jpg": "/static/media/zhengning.ab0fd3ec.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5dd65e2.js",
+    "static/js/runtime-main.4e8f8fae.js",
     "static/css/2.74662cff.chunk.css",
-    "static/js/2.ade9e956.chunk.js",
+    "static/js/2.0647d273.chunk.js",
     "static/css/main.a7c63d37.chunk.css",
-    "static/js/main.aaa722a8.chunk.js"
+    "static/js/main.5290b2f2.chunk.js"
   ]
 }
