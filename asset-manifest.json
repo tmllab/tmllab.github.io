@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.a7c63d37.chunk.css",
-    "main.js": "/static/js/main.5290b2f2.chunk.js",
-    "main.js.map": "/static/js/main.5290b2f2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4e8f8fae.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4e8f8fae.js.map",
+    "main.js": "/static/js/main.903b0273.chunk.js",
+    "main.js.map": "/static/js/main.903b0273.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31769a96.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31769a96.js.map",
     "static/css/2.74662cff.chunk.css": "/static/css/2.74662cff.chunk.css",
-    "static/js/2.0647d273.chunk.js": "/static/js/2.0647d273.chunk.js",
-    "static/js/2.0647d273.chunk.js.map": "/static/js/2.0647d273.chunk.js.map",
-    "static/js/3.1c16b7d5.chunk.js": "/static/js/3.1c16b7d5.chunk.js",
-    "static/js/3.1c16b7d5.chunk.js.map": "/static/js/3.1c16b7d5.chunk.js.map",
+    "static/js/2.ac9f124f.chunk.js": "/static/js/2.ac9f124f.chunk.js",
+    "static/js/2.ac9f124f.chunk.js.map": "/static/js/2.ac9f124f.chunk.js.map",
+    "static/js/3.6252d469.chunk.js": "/static/js/3.6252d469.chunk.js",
+    "static/js/3.6252d469.chunk.js.map": "/static/js/3.6252d469.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.62ec4b53ba5427703913f9c59670b5ca.js": "/precache-manifest.62ec4b53ba5427703913f9c59670b5ca.js",
+    "precache-manifest.f9de545059ea876f4b861880a06b708e.js": "/precache-manifest.f9de545059ea876f4b861880a06b708e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.74662cff.chunk.css.map": "/static/css/2.74662cff.chunk.css.map",
     "static/css/main.a7c63d37.chunk.css.map": "/static/css/main.a7c63d37.chunk.css.map",
-    "static/js/2.0647d273.chunk.js.LICENSE.txt": "/static/js/2.0647d273.chunk.js.LICENSE.txt",
+    "static/js/2.ac9f124f.chunk.js.LICENSE.txt": "/static/js/2.ac9f124f.chunk.js.LICENSE.txt",
     "static/media/ARC.png": "/static/media/ARC.5918c49b.png",
     "static/media/ChaojianYu.jpeg": "/static/media/ChaojianYu.b4519acf.jpeg",
     "static/media/ChenCheng.jpeg": "/static/media/ChenCheng.98ebc3e3.jpeg",
@@ -34,6 +34,7 @@
     "static/media/Matthew.jpeg": "/static/media/Matthew.bc5858b3.jpeg",
     "static/media/Michael.jpeg": "/static/media/Michael.a8795169.jpeg",
     "static/media/Model_blank.png": "/static/media/Model_blank.571a4195.png",
+    "static/media/Muyang.png": "/static/media/Muyang.10efca98.png",
     "static/media/NeurIPS.png": "/static/media/NeurIPS.fc641c3a.png",
     "static/media/Nguyen.jpg": "/static/media/Nguyen.51747096.jpg",
     "static/media/Pengqian.jpg": "/static/media/Pengqian.723f150d.jpg",
@@ -79,10 +80,10 @@
     "static/media/zhengning.jpg": "/static/media/zhengning.ab0fd3ec.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e8f8fae.js",
+    "static/js/runtime-main.31769a96.js",
     "static/css/2.74662cff.chunk.css",
-    "static/js/2.0647d273.chunk.js",
+    "static/js/2.ac9f124f.chunk.js",
     "static/css/main.a7c63d37.chunk.css",
-    "static/js/main.5290b2f2.chunk.js"
+    "static/js/main.903b0273.chunk.js"
   ]
 }
