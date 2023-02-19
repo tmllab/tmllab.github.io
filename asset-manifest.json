@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.a7c63d37.chunk.css",
-    "main.js": "/static/js/main.c500f744.chunk.js",
-    "main.js.map": "/static/js/main.c500f744.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fb7e0068.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fb7e0068.js.map",
+    "main.js": "/static/js/main.6b95e439.chunk.js",
+    "main.js.map": "/static/js/main.6b95e439.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3636bee0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3636bee0.js.map",
     "static/css/2.74662cff.chunk.css": "/static/css/2.74662cff.chunk.css",
-    "static/js/2.b8d4d88b.chunk.js": "/static/js/2.b8d4d88b.chunk.js",
-    "static/js/2.b8d4d88b.chunk.js.map": "/static/js/2.b8d4d88b.chunk.js.map",
-    "static/js/3.1cca72f3.chunk.js": "/static/js/3.1cca72f3.chunk.js",
-    "static/js/3.1cca72f3.chunk.js.map": "/static/js/3.1cca72f3.chunk.js.map",
+    "static/js/2.7fee5f15.chunk.js": "/static/js/2.7fee5f15.chunk.js",
+    "static/js/2.7fee5f15.chunk.js.map": "/static/js/2.7fee5f15.chunk.js.map",
+    "static/js/3.d8c4d316.chunk.js": "/static/js/3.d8c4d316.chunk.js",
+    "static/js/3.d8c4d316.chunk.js.map": "/static/js/3.d8c4d316.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.56109d1d4fdc845fa2aae00f6d64a3c5.js": "/precache-manifest.56109d1d4fdc845fa2aae00f6d64a3c5.js",
+    "precache-manifest.0b16ec9e3c41a9254943b4ff128b5968.js": "/precache-manifest.0b16ec9e3c41a9254943b4ff128b5968.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.74662cff.chunk.css.map": "/static/css/2.74662cff.chunk.css.map",
     "static/css/main.a7c63d37.chunk.css.map": "/static/css/main.a7c63d37.chunk.css.map",
-    "static/js/2.b8d4d88b.chunk.js.LICENSE.txt": "/static/js/2.b8d4d88b.chunk.js.LICENSE.txt",
+    "static/js/2.7fee5f15.chunk.js.LICENSE.txt": "/static/js/2.7fee5f15.chunk.js.LICENSE.txt",
     "static/media/ARC.png": "/static/media/ARC.5918c49b.png",
     "static/media/ChaojianYu.jpeg": "/static/media/ChaojianYu.b4519acf.jpeg",
     "static/media/ChenCheng.jpeg": "/static/media/ChenCheng.98ebc3e3.jpeg",
@@ -85,15 +85,16 @@
     "static/media/top-news2.jpeg": "/static/media/top-news2.1a2564fa.jpeg",
     "static/media/top-news3.jpeg": "/static/media/top-news3.813b24b1.jpeg",
     "static/media/university.png": "/static/media/university.40aaeedf.png",
+    "static/media/xiaolong.jpg": "/static/media/xiaolong.f0e0ec7a.jpg",
     "static/media/xuefeng.jpg": "/static/media/xuefeng.0043eab4.jpg",
     "static/media/yuyao.jpeg": "/static/media/yuyao.9c28cd2b.jpeg",
     "static/media/zhengning.jpg": "/static/media/zhengning.ab0fd3ec.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb7e0068.js",
+    "static/js/runtime-main.3636bee0.js",
     "static/css/2.74662cff.chunk.css",
-    "static/js/2.b8d4d88b.chunk.js",
+    "static/js/2.7fee5f15.chunk.js",
     "static/css/main.a7c63d37.chunk.css",
-    "static/js/main.c500f744.chunk.js"
+    "static/js/main.6b95e439.chunk.js"
   ]
 }
